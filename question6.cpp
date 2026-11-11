@@ -20,7 +20,7 @@ int main(){
     student s;
     ifstream fin;
     fin.open("student.txt");
-    for(int i=0;i<<2;i++){
+    for(int i=0;i<2;i++){
         fin.read((char*)&s,sizeof(student));
         s.write_data();
     }
