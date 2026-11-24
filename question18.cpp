@@ -1,4 +1,4 @@
-/*Write a C++ program to demonstrate single inheritance. Create a base class Person with 
+/*Write a C++ program to demonstrate single inheritance. Create a base class Parent with 
 data members name and age. Derive a class Student with data member roll. 
 Display all information using a member function*/
 #include<iostream>
